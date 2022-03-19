@@ -1,4 +1,44 @@
-## shoppersstop-clone
+## Shoppersstop-clone
+
+## Shoppers Stop is home to a multitude of leading international and national brands for apparels, fragrances, accessories, cosmetics, footwear, home décor and furnishings catering to the needs of the entire family. We aspire to provide our customers a memorable international shopping experience. We are one of the largest chain of department stores across India.
+
+
+# Authors
+
+- [Navneet Chauhan](https://github.com/MrNavneetChauhan)
+- [Sachib Kohli](https://github.com/kosachin)
+- [Abhishek Kumar](https://github.com/abckyadav)
+- [Ashok Zarmariya](https://github.com/Ashokzarmariya)
+- [Omkar Londhe](https://github.com/Omkaar1)
+
+## Deployed Link - [shoppersstop.com](https://shoppersstop-clone-c7vkjykxi-abckyadav.vercel.app/)
+
+# Prerequisities
+
+- HTML
+- DOM
+- JavaScipt
+- CSS
+
+# Run Locally
+
+- To run this project locally follow following steps below
+- Create folder in your local system
+
+Clone this Project
+
+`git clone https://github.com/abckyadav/Shoppersstop-team-project.git`
+
+- Now the project is ready just go and visit home page
+
+### What did I Learn
+
+- By end of this project, I am able to learn how effective work can be done as a team when ideas are trajected in multiple spectrums.
+
+- The coordination while presenting the project was a new experience for all the members of the team which was fun driven as well as professional learning.
+
+- Effective learning involves how we were able to suggest constructive feedback on each other’s work and debug before we present our project.
+
 
 
 
