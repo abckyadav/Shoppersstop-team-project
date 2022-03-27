@@ -31,6 +31,8 @@ Clone this Project
 
 - Now the project is ready just go and visit home page
 
+- for visit product page click on men at navbar => all clothing. 
+
 ### What did I Learn
 
 - By end of this project, I am able to learn how effective work can be done as a team when ideas are trajected in multiple spectrums.
